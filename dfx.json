@@ -1,0 +1,29 @@
+{
+  "canisters": {
+    "encuesta_backend": {
+      "main": "src/encuesta_backend/main.mo",
+      "type": "motoko"
+    },
+    "encuesta_frontend": {
+      "dependencies": [
+        "encuesta_backend"
+      ],
+      "frontend": {
+        "entrypoint": "src/encuesta_frontend/src/index.html"
+      },
+      "source": [
+        "src/encuesta_frontend/assets",
+        "dist/encuesta_frontend/"
+      ],
+      "type": "assets"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
