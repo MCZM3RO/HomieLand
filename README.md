@@ -1,6 +1,9 @@
-# encuesta
+# NounsAmigosGame2D Proyecto =HomieLand= (encuesta example)
 
-Welcome to your new encuesta project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+Proyecto realizado para la certificaci[on de ICP. Durante este periodo de aprendizaje me di a la tarea de aprender los fundamentos y aplicaciones de Internet Computer. Desarrollé un proyecto titulado HomieLand el cual tiene como objetivo, crear una plataforma dedicada a Gaming web3 enfocandome principalmente en el host de videojuegos con implementaci[on de blockchain, as[i como una plataforma social de gamers con algunas implementaciones que pueden hacer más llevadero el conocimiento y onbording de gamers hacia este tipo de tecnologia como stream, un mercado de activos digitales conectados a cada videojuego o como tal una plataforma que registre logros, airdrops o informaci[on basica de cualquier proyecto de gaming. Para esta etapa inicial, subi un juego en el que estoy trabajando titulado "NounsAmigosGame2D"un juego plataformero con los assets de NounsAmigos, este proyecto puden probarlo dentro de la carpeta titulada icp-project.
+-------------=
+
+Welcome to encuesta example project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
