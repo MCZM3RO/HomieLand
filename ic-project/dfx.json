@@ -1,0 +1,15 @@
+{
+  "canisters": {
+    "nouns_a_game": {
+      "frontend": {
+        "entrypoint": "src/nouns_a_game/src/index.html"
+      },
+      "source": [
+        "src/nouns_a_game/assets",
+        "src/nouns_a_game/src"
+      ],
+      "type": "assets"
+    }
+  },
+  "version": 1
+}
